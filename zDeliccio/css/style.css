@@ -81,6 +81,7 @@ header {height:121px;padding-top:31px;width:100%;overflow:hidden}
 .price a {float:left;color:#220000;background:url(../images/marker_2.gif) 1px 11px no-repeat #faf3ed;padding-left:12px}
 .price a:hover {text-decoration:none;color:#a80002}
 .price span {float:right;background:#faf3ed}
+.price div {font-style:italic;font-weight:bold;padding-top: 10px;padding-bottom: 10px  }
 .address {padding-bottom:0}
 .address span {float:left;width:84px}
 /* footer */
