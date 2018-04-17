@@ -72,7 +72,7 @@ if(isset($_POST['name']))
 					<ul id="menu">
 						<li><a href="index.html">Restaurant</a></li>
 						<li><a href="Cuisine.html">Cuisine</a></li>
-						<li><a href="Wine.html">Wine List</a></li>
+						<li><a href="Wine.html">Menu</a></li>
 						<li><a href="CookBook.html">CookBook</a></li>
 						<li class="active"><a href="Contacts.html">Contacts</a></li>
 					</ul>

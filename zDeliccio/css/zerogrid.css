@@ -40,7 +40,8 @@ Author URI: https://www.zerotheme.com/
 .zerogrid .col-3-6{width:50%;}
 .zerogrid .col-4-6{width:66.66%;}
 .zerogrid .col-5-6{width:83.33%;}
-
+#zerogridh1 .h1{margin:0;padding:0;vertical-align:top;display:table-cell;}
+.zerogridimg {width: 250px;height: 130px;}
 @media only screen and (min-width: 768px) and (max-width: 960px) {
 	.zerogrid{width:768px;}
 }
